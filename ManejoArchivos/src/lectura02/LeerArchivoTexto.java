@@ -20,7 +20,9 @@ public class LeerArchivoTexto {
             Scanner entrada = new Scanner(new File("data/datosDos.txt"));
 
             while (entrada.hasNext()) {
-                String linea = entrada.nextLine();
+                String linea = entrada.nextLine(); // lleva dos \\ porque tiene
+                                                   // que ser diferente a la ,
+                                                   // y ;
                 List<String> lista = Arrays.asList(linea.split("\\|"));
                 ArrayList<String> linea_partes = new ArrayList<>(lista);
                 

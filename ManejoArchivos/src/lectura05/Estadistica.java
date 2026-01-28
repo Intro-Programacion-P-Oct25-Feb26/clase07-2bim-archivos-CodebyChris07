@@ -2,12 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package lectura04;
+package lectura05;
 
 /**
  *
  * @author ASUS
  */
-public class Operaciones2 {
+public class Estadistica {
+    
     
 }

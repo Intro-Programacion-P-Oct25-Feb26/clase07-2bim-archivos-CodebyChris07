@@ -3,11 +3,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package escritura04;
-import java.io.FileOutputStream;
-import java.io.OutputStreamWriter;
+
 import java.util.Formatter;
-import java.util.Formatter;
-import java.util.Scanner;
+
 
 /**
  *
@@ -29,7 +27,6 @@ public class Operaciones {
 
         }
 
-    } // fin método agregarRegistros
-    
-} // fin de la clase CrearArchivoTexto
+    } 
+} 
     
